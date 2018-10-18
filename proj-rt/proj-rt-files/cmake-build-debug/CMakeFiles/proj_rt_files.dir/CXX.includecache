@@ -1,0 +1,256 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/jimr/Desktop/courses/CS130/proj-rt/proj-rt-files (1)/proj-rt/proj-rt-files/box.h
+ray.h
+/home/jimr/Desktop/courses/CS130/proj-rt/proj-rt-files (1)/proj-rt/proj-rt-files/ray.h
+misc.h
+/home/jimr/Desktop/courses/CS130/proj-rt/proj-rt-files (1)/proj-rt/proj-rt-files/misc.h
+limits
+-
+
+/home/jimr/Desktop/courses/CS130/proj-rt/proj-rt-files (1)/proj-rt/proj-rt-files/camera.cpp
+camera.h
+/home/jimr/Desktop/courses/CS130/proj-rt/proj-rt-files (1)/proj-rt/proj-rt-files/camera.h
+
+/home/jimr/Desktop/courses/CS130/proj-rt/proj-rt-files (1)/proj-rt/proj-rt-files/camera.h
+algorithm
+-
+vec.h
+/home/jimr/Desktop/courses/CS130/proj-rt/proj-rt-files (1)/proj-rt/proj-rt-files/vec.h
+misc.h
+/home/jimr/Desktop/courses/CS130/proj-rt/proj-rt-files (1)/proj-rt/proj-rt-files/misc.h
+
+/home/jimr/Desktop/courses/CS130/proj-rt/proj-rt-files (1)/proj-rt/proj-rt-files/direction_light.h
+math.h
+-
+vector
+-
+iostream
+-
+limits
+-
+vec.h
+/home/jimr/Desktop/courses/CS130/proj-rt/proj-rt-files (1)/proj-rt/proj-rt-files/vec.h
+light.h
+/home/jimr/Desktop/courses/CS130/proj-rt/proj-rt-files (1)/proj-rt/proj-rt-files/light.h
+
+/home/jimr/Desktop/courses/CS130/proj-rt/proj-rt-files (1)/proj-rt/proj-rt-files/flat_shader.h
+shader.h
+/home/jimr/Desktop/courses/CS130/proj-rt/proj-rt-files (1)/proj-rt/proj-rt-files/shader.h
+
+/home/jimr/Desktop/courses/CS130/proj-rt/proj-rt-files (1)/proj-rt/proj-rt-files/hierarchy.cpp
+algorithm
+-
+hierarchy.h
+/home/jimr/Desktop/courses/CS130/proj-rt/proj-rt-files (1)/proj-rt/proj-rt-files/hierarchy.h
+
+/home/jimr/Desktop/courses/CS130/proj-rt/proj-rt-files (1)/proj-rt/proj-rt-files/hierarchy.h
+object.h
+/home/jimr/Desktop/courses/CS130/proj-rt/proj-rt-files (1)/proj-rt/proj-rt-files/object.h
+
+/home/jimr/Desktop/courses/CS130/proj-rt/proj-rt-files (1)/proj-rt/proj-rt-files/light.h
+math.h
+-
+vector
+-
+iostream
+-
+limits
+-
+vec.h
+/home/jimr/Desktop/courses/CS130/proj-rt/proj-rt-files (1)/proj-rt/proj-rt-files/vec.h
+
+/home/jimr/Desktop/courses/CS130/proj-rt/proj-rt-files (1)/proj-rt/proj-rt-files/main.cpp
+render_world.h
+/home/jimr/Desktop/courses/CS130/proj-rt/proj-rt-files (1)/proj-rt/proj-rt-files/render_world.h
+object.h
+/home/jimr/Desktop/courses/CS130/proj-rt/proj-rt-files (1)/proj-rt/proj-rt-files/object.h
+iostream
+-
+cstdio
+-
+unistd.h
+-
+
+/home/jimr/Desktop/courses/CS130/proj-rt/proj-rt-files (1)/proj-rt/proj-rt-files/mesh.cpp
+mesh.h
+/home/jimr/Desktop/courses/CS130/proj-rt/proj-rt-files (1)/proj-rt/proj-rt-files/mesh.h
+fstream
+-
+string
+-
+limits
+-
+
+/home/jimr/Desktop/courses/CS130/proj-rt/proj-rt-files (1)/proj-rt/proj-rt-files/mesh.h
+object.h
+/home/jimr/Desktop/courses/CS130/proj-rt/proj-rt-files (1)/proj-rt/proj-rt-files/object.h
+
+/home/jimr/Desktop/courses/CS130/proj-rt/proj-rt-files (1)/proj-rt/proj-rt-files/misc.h
+iostream
+-
+
+/home/jimr/Desktop/courses/CS130/proj-rt/proj-rt-files (1)/proj-rt/proj-rt-files/object.h
+vector
+-
+box.h
+/home/jimr/Desktop/courses/CS130/proj-rt/proj-rt-files (1)/proj-rt/proj-rt-files/box.h
+vec.h
+/home/jimr/Desktop/courses/CS130/proj-rt/proj-rt-files (1)/proj-rt/proj-rt-files/vec.h
+
+/home/jimr/Desktop/courses/CS130/proj-rt/proj-rt-files (1)/proj-rt/proj-rt-files/parse.cpp
+map
+-
+sstream
+-
+string
+-
+direction_light.h
+/home/jimr/Desktop/courses/CS130/proj-rt/proj-rt-files (1)/proj-rt/proj-rt-files/direction_light.h
+flat_shader.h
+/home/jimr/Desktop/courses/CS130/proj-rt/proj-rt-files (1)/proj-rt/proj-rt-files/flat_shader.h
+mesh.h
+/home/jimr/Desktop/courses/CS130/proj-rt/proj-rt-files (1)/proj-rt/proj-rt-files/mesh.h
+phong_shader.h
+/home/jimr/Desktop/courses/CS130/proj-rt/proj-rt-files (1)/proj-rt/proj-rt-files/phong_shader.h
+plane.h
+/home/jimr/Desktop/courses/CS130/proj-rt/proj-rt-files (1)/proj-rt/proj-rt-files/plane.h
+point_light.h
+/home/jimr/Desktop/courses/CS130/proj-rt/proj-rt-files (1)/proj-rt/proj-rt-files/point_light.h
+reflective_shader.h
+/home/jimr/Desktop/courses/CS130/proj-rt/proj-rt-files (1)/proj-rt/proj-rt-files/reflective_shader.h
+render_world.h
+/home/jimr/Desktop/courses/CS130/proj-rt/proj-rt-files (1)/proj-rt/proj-rt-files/render_world.h
+sphere.h
+/home/jimr/Desktop/courses/CS130/proj-rt/proj-rt-files (1)/proj-rt/proj-rt-files/sphere.h
+spot_light.h
+/home/jimr/Desktop/courses/CS130/proj-rt/proj-rt-files (1)/proj-rt/proj-rt-files/spot_light.h
+
+/home/jimr/Desktop/courses/CS130/proj-rt/proj-rt-files (1)/proj-rt/proj-rt-files/phong_shader.cpp
+light.h
+/home/jimr/Desktop/courses/CS130/proj-rt/proj-rt-files (1)/proj-rt/proj-rt-files/light.h
+phong_shader.h
+/home/jimr/Desktop/courses/CS130/proj-rt/proj-rt-files (1)/proj-rt/proj-rt-files/phong_shader.h
+ray.h
+/home/jimr/Desktop/courses/CS130/proj-rt/proj-rt-files (1)/proj-rt/proj-rt-files/ray.h
+render_world.h
+/home/jimr/Desktop/courses/CS130/proj-rt/proj-rt-files (1)/proj-rt/proj-rt-files/render_world.h
+object.h
+/home/jimr/Desktop/courses/CS130/proj-rt/proj-rt-files (1)/proj-rt/proj-rt-files/object.h
+
+/home/jimr/Desktop/courses/CS130/proj-rt/proj-rt-files (1)/proj-rt/proj-rt-files/phong_shader.h
+shader.h
+/home/jimr/Desktop/courses/CS130/proj-rt/proj-rt-files (1)/proj-rt/proj-rt-files/shader.h
+
+/home/jimr/Desktop/courses/CS130/proj-rt/proj-rt-files (1)/proj-rt/proj-rt-files/plane.cpp
+plane.h
+/home/jimr/Desktop/courses/CS130/proj-rt/proj-rt-files (1)/proj-rt/proj-rt-files/plane.h
+ray.h
+/home/jimr/Desktop/courses/CS130/proj-rt/proj-rt-files (1)/proj-rt/proj-rt-files/ray.h
+cfloat
+-
+limits
+-
+
+/home/jimr/Desktop/courses/CS130/proj-rt/proj-rt-files (1)/proj-rt/proj-rt-files/plane.h
+object.h
+/home/jimr/Desktop/courses/CS130/proj-rt/proj-rt-files (1)/proj-rt/proj-rt-files/object.h
+
+/home/jimr/Desktop/courses/CS130/proj-rt/proj-rt-files (1)/proj-rt/proj-rt-files/point_light.h
+math.h
+-
+vector
+-
+iostream
+-
+limits
+-
+vec.h
+/home/jimr/Desktop/courses/CS130/proj-rt/proj-rt-files (1)/proj-rt/proj-rt-files/vec.h
+light.h
+/home/jimr/Desktop/courses/CS130/proj-rt/proj-rt-files (1)/proj-rt/proj-rt-files/light.h
+
+/home/jimr/Desktop/courses/CS130/proj-rt/proj-rt-files (1)/proj-rt/proj-rt-files/ray.h
+vec.h
+/home/jimr/Desktop/courses/CS130/proj-rt/proj-rt-files (1)/proj-rt/proj-rt-files/vec.h
+
+/home/jimr/Desktop/courses/CS130/proj-rt/proj-rt-files (1)/proj-rt/proj-rt-files/reflective_shader.cpp
+reflective_shader.h
+/home/jimr/Desktop/courses/CS130/proj-rt/proj-rt-files (1)/proj-rt/proj-rt-files/reflective_shader.h
+ray.h
+/home/jimr/Desktop/courses/CS130/proj-rt/proj-rt-files (1)/proj-rt/proj-rt-files/ray.h
+render_world.h
+/home/jimr/Desktop/courses/CS130/proj-rt/proj-rt-files (1)/proj-rt/proj-rt-files/render_world.h
+
+/home/jimr/Desktop/courses/CS130/proj-rt/proj-rt-files (1)/proj-rt/proj-rt-files/reflective_shader.h
+algorithm
+-
+shader.h
+/home/jimr/Desktop/courses/CS130/proj-rt/proj-rt-files (1)/proj-rt/proj-rt-files/shader.h
+
+/home/jimr/Desktop/courses/CS130/proj-rt/proj-rt-files (1)/proj-rt/proj-rt-files/render_world.cpp
+render_world.h
+/home/jimr/Desktop/courses/CS130/proj-rt/proj-rt-files (1)/proj-rt/proj-rt-files/render_world.h
+flat_shader.h
+/home/jimr/Desktop/courses/CS130/proj-rt/proj-rt-files (1)/proj-rt/proj-rt-files/flat_shader.h
+object.h
+/home/jimr/Desktop/courses/CS130/proj-rt/proj-rt-files (1)/proj-rt/proj-rt-files/object.h
+light.h
+/home/jimr/Desktop/courses/CS130/proj-rt/proj-rt-files (1)/proj-rt/proj-rt-files/light.h
+ray.h
+/home/jimr/Desktop/courses/CS130/proj-rt/proj-rt-files (1)/proj-rt/proj-rt-files/ray.h
+
+/home/jimr/Desktop/courses/CS130/proj-rt/proj-rt-files (1)/proj-rt/proj-rt-files/render_world.h
+vector
+-
+camera.h
+/home/jimr/Desktop/courses/CS130/proj-rt/proj-rt-files (1)/proj-rt/proj-rt-files/camera.h
+hierarchy.h
+/home/jimr/Desktop/courses/CS130/proj-rt/proj-rt-files (1)/proj-rt/proj-rt-files/hierarchy.h
+object.h
+/home/jimr/Desktop/courses/CS130/proj-rt/proj-rt-files (1)/proj-rt/proj-rt-files/object.h
+
+/home/jimr/Desktop/courses/CS130/proj-rt/proj-rt-files (1)/proj-rt/proj-rt-files/shader.h
+vec.h
+/home/jimr/Desktop/courses/CS130/proj-rt/proj-rt-files (1)/proj-rt/proj-rt-files/vec.h
+
+/home/jimr/Desktop/courses/CS130/proj-rt/proj-rt-files (1)/proj-rt/proj-rt-files/sphere.cpp
+sphere.h
+/home/jimr/Desktop/courses/CS130/proj-rt/proj-rt-files (1)/proj-rt/proj-rt-files/sphere.h
+ray.h
+/home/jimr/Desktop/courses/CS130/proj-rt/proj-rt-files (1)/proj-rt/proj-rt-files/ray.h
+plane.h
+/home/jimr/Desktop/courses/CS130/proj-rt/proj-rt-files (1)/proj-rt/proj-rt-files/plane.h
+
+/home/jimr/Desktop/courses/CS130/proj-rt/proj-rt-files (1)/proj-rt/proj-rt-files/sphere.h
+object.h
+/home/jimr/Desktop/courses/CS130/proj-rt/proj-rt-files (1)/proj-rt/proj-rt-files/object.h
+
+/home/jimr/Desktop/courses/CS130/proj-rt/proj-rt-files (1)/proj-rt/proj-rt-files/spot_light.h
+math.h
+-
+vector
+-
+iostream
+-
+limits
+-
+vec.h
+/home/jimr/Desktop/courses/CS130/proj-rt/proj-rt-files (1)/proj-rt/proj-rt-files/vec.h
+light.h
+/home/jimr/Desktop/courses/CS130/proj-rt/proj-rt-files (1)/proj-rt/proj-rt-files/light.h
+
+/home/jimr/Desktop/courses/CS130/proj-rt/proj-rt-files (1)/proj-rt/proj-rt-files/vec.h
+cmath
+-
+iostream
+-
+cassert
+-
+
